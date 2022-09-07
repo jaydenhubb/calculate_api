@@ -2,6 +2,6 @@
 
 ## Added integration testing for:
 * Division
-*Multiplication
+* Multiplication
 * Subtraction
 ## Ensured all test passed.
